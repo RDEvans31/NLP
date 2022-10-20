@@ -1,0 +1,3 @@
+prescriber_dosage,annotation,rrule
+one nocte----{dosette dispensing for all medications pls},"[['one', 'QUANTITY']]",[]
+one tab am and two tabs nocte,"[['one', 'QUANTITY'], ['every night', 'FREQUENCY']]",FREQ=DAILY;BYHOUR=21

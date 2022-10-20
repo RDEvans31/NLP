@@ -1,0 +1,9 @@
+prescriber_dosage,annotation,rrule
+one twice a day-am and nocte.,"[['one', 'QUANTITY'], ['twice a day-am', 'FREQUENCY'], ['every night', 'FREQUENCY']]","FREQ=DAILY;BYHOUR=8,20"
+1/2 to be taken at night (10mg nocte dose due to renal function),"[['1 2', 'QUANTITY'], ['every night', 'FREQUENCY']]",FREQ=DAILY;BYHOUR=21
+one to be taken daily drug tariff eng/ wales nocte,"[['one', 'QUANTITY'], ['daily', 'FREQUENCY'], ['every night', 'FREQUENCY']]",FREQ=DAILY;BYHOUR=9
+Use In Blood Glucose Test Meter As Directed,[],[]
+2 mane 1 lunchtime 2 nocte,"[['2', 'QUANTITY'], ['every morning', 'FREQUENCY'], ['1', 'QUANTITY'], ['2', 'QUANTITY'], ['every night', 'FREQUENCY']]",FREQ=DAILY;BYHOUR=9
+Two To Be Taken Every 4-6 Hours Up To Four Times A Day,"[['two', 'QUANTITY'], ['every 4-6 hours', 'FREQUENCY'], ['four times a day', 'FREQUENCY']]","FREQ=DAILY;BYHOUR=8,12,16,20"
+Take One Sachet In Water Twice A Day After Food,"[['one', 'QUANTITY'], ['twice a day', 'FREQUENCY'], ['after food', 'MEALTIME']]","FREQ=DAILY;BYHOUR=8,20"
+take one early evening,"[['one', 'QUANTITY'], ['early evening', 'FREQUENCY']]",FREQ=DAILY;BYHOUR=21
